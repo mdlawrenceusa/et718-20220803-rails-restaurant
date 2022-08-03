@@ -22,3 +22,10 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+
+
+rails generate model Article title:string text:text
+
+rails generate scafold Reservation name party_size date_time comment:text
